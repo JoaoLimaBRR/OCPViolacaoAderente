@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OCP_Violacao
+namespace OCPViolacao
 {
     class Program
     {

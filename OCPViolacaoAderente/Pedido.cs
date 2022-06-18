@@ -1,4 +1,4 @@
-﻿namespace OCP_Violacao
+﻿namespace OCPViolacao
 {
     public enum TipoCliente
     {
